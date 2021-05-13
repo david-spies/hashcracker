@@ -1,0 +1,11 @@
+Example sha256 hash:
+
+
+11c46aace5fff461fd0e321afa20f48fed1345c6691c1fe67fd7a265baa04572
+
+
+Above hash = 002208476 <-- example Password Found!
+
+This example password will be found in the wordlist that is provided in the repository.
+
+Any sha256 hash that is searched in the hashcracker utility will only be decrypted if found in your wordlist.

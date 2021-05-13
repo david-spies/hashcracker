@@ -10,7 +10,7 @@ Hashcracker should run on most Windows machines with very few dependencies.
 ## Easy Installation
 
 * Download the Hashcracker code and execute on your favorite IDE.
-* Paste in the sha2566 hash to be compared
+* Paste in the sha256 hash to be compared
 * Paste in the directory to the wordlist.txt location (your own wordlist can be referenced)
 * Click on 'Decrypt'
 * Hashcracker will search the wordlist for the password

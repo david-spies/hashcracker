@@ -1,0 +1,11 @@
+Example sha384 hash:
+
+
+e44d8203e8ac3c7dbef69ed852b0433e4f393b369d463bc3c9c6b37e5f3302e90993b80de79aee24b03850f39de19128
+
+
+Above hash = 1neunzehn9 <-- example Password Found!
+
+This example password will be found in the wordlist that is provided in the repository.
+
+Any sha384 hash that is searched in the hashcracker utility will only be decrypted if found in your wordlist.

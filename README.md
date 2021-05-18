@@ -1,7 +1,7 @@
 # Hashcracker
 
 Written in python and utilizing Tkinter for the GUI. 
-The Hashcracker provides an easy and seamless way to search a wordlist for a password that corresponds to a sha256 hash. 
+The Hashcracker provides an easy and seamless way to search a wordlist for a password that corresponds to a hash. 
 
 ##Prerequisites
 
@@ -10,7 +10,7 @@ Hashcracker should run on most Windows machines with very few dependencies.
 ## Easy Installation
 
 * Download the Hashcracker code and execute on your favorite IDE.
-* Paste in the sha256 hash to be compared
+* Paste in the sha256, sha384, or sha512 hash to be compared
 * Paste in the directory to the wordlist.txt location (your own wordlist can be referenced)
 * Click on 'Decrypt'
 * Hashcracker will search the wordlist for the password

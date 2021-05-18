@@ -1,0 +1,11 @@
+Example sha512 hash:
+
+
+8ded90e9317a7e1fe4f6e2b5007b21b9ae55198c259c17355a419b16b0cec4bcd0dec87c9cc9299717eb1587ee26b701f272585581912aef9204fa43e5914455
+
+
+Above hash = 5151highland <-- example Password Found!
+
+This example password will be found in the wordlist that is provided in the repository.
+
+Any sha512 hash that is searched in the hashcracker utility will only be decrypted if found in your wordlist.

@@ -9,17 +9,17 @@ Hashcracker should run on most Windows machines with very few dependencies.
 
 ## Easy Installation
 
-* Download the Hashcracker code and execute on your favorite IDE.
+* Download the Hashcracker script and execute on your favorite IDE.
 * Paste in the sha256, sha384, or sha512 hash to be compared
 * Paste in the directory to the wordlist.txt location (your own wordlist can be referenced)
 * Click on 'Decrypt'
-* Hashcracker will search the wordlist for the password
+* Hashcracker will search the wordlist for the password that corrospnds to the hash.
 * If successful, the password found will populate on the GUI screen when retrieved.
-* The total search time in seconds is also displayed on the GUI.
+* The total search time in hours, minutes, and seconds is displayed on the GUI.
 
 ## Installation from Source
 
-* Download the Hashcracker file.
+* Download the Hashcracker code.
 * Run from terminal, IDLE, or your favorite IDE
 
 ## Source Modules & Packages
@@ -41,3 +41,4 @@ Built with python and Tkinter GUI library.
 Authors
 
     David Spies
+
